@@ -1,6 +1,3 @@
-### 2. The Code: trauma_app.py
-This code uses a dictionary-based scoring system and file handling to save patient data.
-
 ```python
 import datetime
 
